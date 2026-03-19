@@ -1,2 +1,3 @@
-# next-travel-planner-2u3v
+# Next Travel Planner 2U3V
+
 A travel planning application for modern development workflows.
